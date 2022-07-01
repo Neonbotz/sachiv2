@@ -44,33 +44,33 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://www.instagram.com/kontol_elite'
-global.sgh = 'https://github.com/kannachann'
-global.sgc = 'https://chat.whatsapp.com/FF1Bd1U0FHu42rfz6uplbn'
+global.sig = 'https://www.instagram.com/yt.agungxx'
+global.sgh = 'https://github.com/Neonbotz'
+global.sgc = 'https://chat.whatsapp.com/GUZsmmxDNQAAMyzMKrXDTV'
 global.sdc = '-'
-global.snh = 'https://nhentai.net/g/365296/'
+global.snh = 'https://nhentai.net'
 
 /*============== PAYMENT ==============*/
-global.pdana = '085334930628'
-global.povo = '085712420674'
-global.pgopay = '085712420674'
-global.ppulsa = '085334930628'
-global.ppulsa2 = '081336990781'
+global.pdana = 'Lupa No Dananya'
+global.povo = 'Belum Tersedia'
+global.pgopay = '081390413987'
+global.ppulsa = 'Belum Tersedia'
+global.ppulsa2 = 'Belum Tersedia'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6281336990781'
-global.nomorown = '6285334930628'
-global.namebot = 'Kanna BOT'
-global.nameown = 'ⓊⒸⒽⒾⒽⒶ ⓃⒶⓇⓊⓉⓄ'
+global.nomorbot = '6281390413987'
+global.nomorown = '6287719424487'
+global.namebot = 'Sᴀᴄʜɪ-Bᴏᴛᴢ ♡'
+global.nameown = '𝘼𝙜𝙪𝙣𝙜𝙭 𝙏𝙮𝙪𝙧𝙪»'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285334930628'],
-  ['6285334930628'],
-  ['18126338970'],
-  ['6285334930628', 'ⓊⒸⒽⒾⒽⒶ ⓃⒶⓇⓊⓉⓄ', true]
+  ['6287719424487'],
+  ['6287719424487'],
+  ['14752659201'],
+  ['6287719424487', '𝘼𝙜𝙪𝙣𝙜𝙭 𝙏𝙮𝙪𝙧𝙪»', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -115,11 +115,11 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 Ƙαnnα BOT あ⁩ 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Ƙαnnα - chαn˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ Ƙαnnα 𝗕𝗢𝗧'
-global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
-global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
+global.wm = '                「 Sᴀᴄʜɪ-Bᴏᴛᴢ あ⁩ 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Sᴀᴄʜɪ-Bᴏᴛᴢ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ Sᴀᴄʜɪ-Bᴏᴛᴢ ♡'
+global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗮: ${week} ${date}`
+global.bottime = `𝗪 𝗔 𝗞 𝗧 𝗨 : ${wktuwib}`
 global.titlebot = '🌱 ┊ 𝗥𝗣𝗚 Whatsapp ʙᴏᴛ'
 global.author = global.wm
 
@@ -174,7 +174,7 @@ global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
 global.stickpack = '.'
-global.stickauth = `☂︎\n𝗞\na\nn\nn\na\n-\n𝗕\n𝗢\n𝗧\n✦\n\n⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
+global.stickauth = `☂︎\n𝗦\n𝗮\n𝗰\n𝗵\n𝗶\n-\n𝗕\n𝗢\n𝗧\n✦\n\n⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
 
 global.multiplier = 38 // The higher, The harder levelup
 
